@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+.card {
+    padding: 20px;
+}
+
+.card--comp1 {
+    border: 3px solid blue;
+}
+
+.card--comp2 {
+    border: 3px solid orange;
+}
+
+.card--comp3 {
+    border: 3px solid red;
+}
+
+.card--comp4 {
+    border: 3px solid purple;
+}
